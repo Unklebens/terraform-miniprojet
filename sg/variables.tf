@@ -1,0 +1,3 @@
+variable "admin" {
+  default = "fahim"
+}
